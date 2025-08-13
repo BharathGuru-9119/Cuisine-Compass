@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+# Foodshare
 
-## Project info
+Foodshare is an open-source web app to help communities reduce food waste, share resources, and support sustainability.
 
-**URL**: https://lovable.dev/projects/b08c7d60-4e01-4c67-98b9-8ffddbcfa001
+This project was built during a hackathon where our team finished in the **Top 5**, using a collaborative "vibe coding" approach!
 
-## How can I edit this code?
+## 🚀 Overview
 
-There are several ways of editing your application.
+Built with:
 
-**Use Lovable**
+- **Vite** (dev/build tool)
+- **React** (UI library)
+- **TypeScript** (type safety)
+- **Shadcn UI** (component library)
+- **TailwindCSS** (utility CSS)
+- **Supabase** (backend/database)
+- **TanStack Query** (data fetching/caching)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b08c7d60-4e01-4c67-98b9-8ffddbcfa001) and start prompting.
+## 🌟 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- Eco-themed UI and custom palette
+- Component-driven architecture with Shadcn UI
+- Real-time backend with Supabase
+- Interactive charts via Recharts
+- Modern forms: React Hook Form + Zod
+- Routing with React Router
 
-**Use your preferred IDE**
+## 🛠️ Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+1. **Install dependencies**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+   ```bash
+   npm install
+   ```
 
-Follow these steps:
+2. **Start development server**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+   ```bash
+   npm run dev
+   ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+3. **Build for production**
 
-# Step 3: Install the necessary dependencies.
-npm i
+   ```bash
+   npm run build
+   ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 🤩 Hackathon Highlights
 
-**Edit a file directly in GitHub**
+- Built in "vibe coding" sessions – collaborative, high-energy group coding
+- **Top 5** finish at the hackathon thanks to teamwork and fast prototyping!
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📄 License
 
-**Use GitHub Codespaces**
+MIT
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b08c7d60-4e01-4c67-98b9-8ffddbcfa001) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+_Contributions, feedback, and forks are welcome!_
